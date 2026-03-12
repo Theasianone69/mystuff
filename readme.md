@@ -1,5 +1,5 @@
 [Weblatro](https://github.com/Theasianone69/Weblatro/tree/main)
 [Clover Pit](https://github.com/Theasianone69/cloverpit)
 [Deceptive Homepage](https://github.com/Theasianone69/testing)
-[Blob or Blank G@mes](https://github.com/Theasianone69/g-mes)
-[Blob or Blank Homepage](https://github.com/Theasianone69/thing)
+[Games with random button ](https://github.com/Theasianone69/g-mes)
+
